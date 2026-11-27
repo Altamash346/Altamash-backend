@@ -1,7 +1,6 @@
 # Backend Final — YouTube Clone API
 
-A production-style YouTube clone backend built with **Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Multer, and Cloudinary**, following the *Chai aur Backend* series.
-
+A production-style YouTube clone backend built with **Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Multer, and Cloudinary**.
 ## Features
 
 - **Users & Auth:** Register (avatar & cover image upload), login, logout, refresh access tokens, change password, update profile/avatar/cover image, channel profile aggregation, and watch history.
